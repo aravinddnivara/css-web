@@ -1,0 +1,120 @@
+body{
+	background-color:#ccc;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+	background-color: #4267B2;
+	/*color: #fff;
+	padding: 0;
+	padding-left: 0px;
+	margin: 0px;*/
+ 	/*margin-top: auto;*/
+ 	/*padding-top: 0;*/
+	margin: auto;
+	font-size: 45px;
+	overflow: hidden;
+}
+
+#main-header{
+	/*width:100%;*/
+	color: #fff;
+	/*margin: auto;*/
+	/*padding-left:0%;
+	padding-top:0%;*/
+	/*padding-bottom: 80px;*/
+	/*padding-left:20px;*/
+	/*margin: top:0;*/
+	/*padding-bottom: 80%;*/
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+	font-family: HelveticaNeueW01-55Roma, HelveticaNeueW02-55Roma, HelveticaNeueW10-55Roma, sans-serif;
+	font-size: 16px;
+	padding:10px 15px;
+}
+
+/*a:hover{
+	color: red;
+}*/
+
+/*a:active{
+	color: active;
+
+}
+*/
+.button{
+	background-color: green;
+	color: #fff;
+	/*padding-right: 40px;*/
+	font-size: 20px;
+	/*padding-right: 10px;*/
+	padding: 15px 35px;
+	/*margin left: 70px;*/
+	border:solid color:green;
+	border-radius: 5px;
+	margin-right: 100px;
+	/*top:300px;*/
+	 position: absolute; 
+  top: 90px; 
+ /* left: 10px;*/
+  right: 600px;
+}
+
+.myform .form-group{
+	padding-bottom: 15px;
+	border-spacing: 10px;
+	/**/
+	color: black;
+	font-size: 30px;
+	font-family: HelveticaNeueW01-55Roma, HelveticaNeueW02-55Roma, HelveticaNeueW10-55Roma, sans-serif;
+}
+
+.myform{
+	padding: 80px;
+}
+
+.myform input[type="text"]{
+	padding: 8px;
+	width:100%; 
+}
+
+.myform input[type="password"]{
+	padding: 8px;
+	width:100%; 
+	border:solid;
+	border-color: #3b5999;
+	display: inline-block;
+}
+
+.p-block{
+	background-color: #fff;
+	width: 800px;
+	height: 500px;
+	border:1px solid #000;
+	margin-top: 100px;
+	margin-left: 250px;
+	margin-bottom: 100px;
+	position: relative;
+	background-position: 50px 200px;
+}
+
+.button2{
+	background-color: #4267B2;
+	color: #fff;
+	/*padding-right: 40px;*/
+	font-size: 20px;
+	/*padding-right: 10px;*/
+	padding: 10px 300px;
+	border:none;
+}
+
+.myru{
+	color: #4267B2;
+	font-family: HelveticaNeueW01-55Roma, HelveticaNeueW02-55Roma, HelveticaNeueW10-55Roma, sans-serif;
+	padding: 10px  90px;
+	display: inline-block;
+}
